@@ -61,13 +61,17 @@ Certifique-se de que todas as configurações do ambiente foram realizadas corre
 
 - Faça o download do projeto para o seu computador.
 
-- Abra o VSCODE.
+- Abra o Visual Studio Code (VSCode):
 
-- No menu principal, selecione a opção “File” e Depois opção "Open Folder". Navegue até a pasta onde o projeto foi baixado e clique em “Selecionar”.
+- No menu principal, selecione a opção “File” e depois escolha “Open Folder”.
 
-- No projeto aberto, entre no terminal e execute esse comando `ng serve` 
+- Navegue até a pasta onde o projeto foi baixado e clique em “Selecionar”.
 
-- O projeto vai está disponivel no `http://localhost:4200/`
+- No projeto aberto, acesse o terminal integrado do VSCode.
+
+- Execute o seguinte comando no terminal: `ng serve`
+
+- O projeto estará disponível em: `http://localhost:4200/`
 
 ### 🛠 Tecnologias
 
